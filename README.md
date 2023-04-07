@@ -1,1 +1,1 @@
-My first readme
+i am going to Pass Software Engineering
